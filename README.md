@@ -1,6 +1,6 @@
 - 👋 Te saludo, este  archivo con propiedad de José Marcos Ajuchán Chiquitó (desarrollador Junior)
 Podra visualisar los codigos realizados con el objetivo de aprendizaje.
-- 👀 Ojo!   Esto no significa que tendra todo los códigos agregagos asi como claves.
+- 👀 Ojo!   Esto no significa que tendra todo los códigos agregados asi como claves, las cuales siempre seran privadas..
 
 
 
